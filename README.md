@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-My name is Andrés Melenchón, thanks for visiting my profile
+My name is Andrés Melenchón, mobile developer. Thanks for visiting my profile
 
+##Skills and Languages
+Flutter, Kotlin & Swift
+
+📫 How to reach me: andres.melenchon88@gmail.com
 <!--
 **AndresM88/AndresM88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
